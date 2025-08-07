@@ -62,5 +62,9 @@ Analyze basic security posture of a network.
 **Batch**: July-P1  
 **Company**: Oasis Infobyte  
 **Task**: Task 1 - Basic Network Scanning with Nmap
+## 📽️ Demo Video
+
+[Click here to watch the Nmap demo video](https://drive.google.com/file/d/1UrN2MrzTIzy1_sucqGrDmLVd6ftAEsM1/view?usp=sharing)
+
 
 
